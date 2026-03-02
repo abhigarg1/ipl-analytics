@@ -2,4 +2,4 @@
 Exploring ball-by-ball IPL cricket data.
 Building pipelines, dashboards, and data-driven insights.
 
-Work in progress.
+Mar 1 2025: Project setup, cricsheet data downloaded (1169 IPL matches + other T20 leagues), started data exploration notebook
